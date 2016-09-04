@@ -1,7 +1,6 @@
 # Titanic
 CMIS 141 Final Project
-1
-Final Project
+
 This assignment demonstrates your understanding of the concepts from the CMIS 141 class.
 Before attempting this project, be sure you have completed all of the reading assignments, hands-on
 labs, discussions, and assignments to date.
